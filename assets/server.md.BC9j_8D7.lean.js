@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as p,ae as r}from"./chunks/framework.DN7zo1cr.js";const m=JSON.parse('{"title":"进服教程","description":"","frontmatter":{},"headers":[],"relativePath":"server.md","filePath":"server.md"}'),o={name:"server.md"};function s(c,e,i,l,n,d){return p(),t("div",null,e[0]||(e[0]=[r("",17)]))}const h=a(o,[["render",s]]);export{m as __pageData,h as default};

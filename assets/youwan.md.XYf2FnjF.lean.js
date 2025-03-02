@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.DN7zo1cr.js";const u=JSON.parse('{"title":"游玩须知","description":"","frontmatter":{},"headers":[],"relativePath":"youwan.md","filePath":"youwan.md"}'),n={name:"youwan.md"};function i(l,a,h,d,p,s){return r(),t("div",null,a[0]||(a[0]=[o("",15)]))}const _=e(n,[["render",i]]);export{u as __pageData,_ as default};
