@@ -1,5 +1,4 @@
 # 进服教程
-
 ## 服务器地址
 ::: tip Java版地址
 mm.rainplay.cn:45962
