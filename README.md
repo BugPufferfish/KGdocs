@@ -1,0 +1,2 @@
+# KGJavagame服务器文档
+这里存放的是KGJavagame服务器的文档
