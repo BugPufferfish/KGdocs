@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/KGdocs/"
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
   title: "KGJavagame",
   description: "Minecraft无规则服务器",
