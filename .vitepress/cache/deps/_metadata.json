@@ -1,31 +1,40 @@
 {
-  "hash": "41d62e89",
+  "hash": "097e86f4",
   "configHash": "2a0e36de",
-  "lockfileHash": "05363033",
-  "browserHash": "69adb334",
+  "lockfileHash": "1e51dfda",
+  "browserHash": "33d5e861",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.5.13/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "07e56805",
+      "fileHash": "e802dbe5",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.2/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "f7073d9d",
+      "fileHash": "3abde36f",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/.pnpm/@vueuse+core@12.8.2/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "3ad7ccdf",
+      "fileHash": "89cc73b4",
+      "needsInterop": false
+    },
+    "vitepress-plugin-comment-with-giscus": {
+      "src": "../../../../node_modules/.pnpm/vitepress-plugin-comment-with-giscus@1.1.15_vue@3.5.13/node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
+      "file": "vitepress-plugin-comment-with-giscus.js",
+      "fileHash": "a950f4c6",
       "needsInterop": false
     }
   },
   "chunks": {
     "chunk-JN5NFW2R": {
       "file": "chunk-JN5NFW2R.js"
+    },
+    "giscus-aTimukGI-CA4LVVNW": {
+      "file": "giscus-aTimukGI-CA4LVVNW.js"
     }
   }
 }

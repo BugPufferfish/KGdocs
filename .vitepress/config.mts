@@ -29,7 +29,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '封禁名单', link: '/fengjin' }
+      { text: '封禁名单', link: '/fengjin' },
+      { text: '反馈界面', link: '/fankui' }
     ],
 
     sidebar: [
