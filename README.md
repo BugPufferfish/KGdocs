@@ -1,4 +1,4 @@
 # KGJavagame服务器文档
-这里存放的是KGJavagame服务器的文档
-本文档以MIT协议开源
-文档基于VitePress
+这里存放的是KGJavagame服务器的文档\
+本文档以MIT协议开源\
+文档基于[VitePress](https://vitepress.dev/zh/)
